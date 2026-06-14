@@ -13,7 +13,7 @@ The goal is to build a modern 3D museum gallery using Three.js with modular scen
 ## 3. Project Features
 ### 3.1 Models and Texture Mapping
 - The museum room uses planes for floor, walls, and ceiling with repeatable textures and realistic roughness/metalness settings.
-- The statue is loaded from a GLB model (models/statue.glb) and placed on a custom pedestal with a texture.
+- The statue is loaded from a GLB model (/models/statue.glb) and placed on a custom pedestal with a texture.
 - Paintings use textured planes with separate framed geometry. Frames are lit materials, while the artwork uses an unlit material to preserve image brightness.
 
 ### 3.2 Key Interaction

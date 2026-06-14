@@ -40,10 +40,9 @@ Once the command runs, open the local URL provided (usually `http://localhost:51
 
 ## 🏗️ Project Structure
 
-- `js/`: Core logic (Scene, Camera, Lighting, Interaction, etc.)
+- `public/`: Static assets served at the root (Models, Textures).
+- `js/`: Core logic (Scene, Camera, Lighting, Interaction, etc.).
 - `shaders/`: GLSL vertex and fragment shaders.
-- `textures/`: High-resolution textures for paintings.
-- `models/`: 3D assets (e.g., statues in GLB format).
 - `main.js`: Entry point for the application.
 
 ## 🔨 Building for Production
